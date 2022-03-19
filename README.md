@@ -1,0 +1,1 @@
+# finding-power-without-exponent
